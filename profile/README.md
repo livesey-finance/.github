@@ -18,4 +18,4 @@
 * [`🔧livesey-routing`](https://github.com/livesey-finance/livesey-routing.git) - this module is a lightweight HTTP router that facilitates handling requests and responses in a Node.js application
 
 ### In order to contribute to our infrastructure solution, we encourage you to read our manifesto:
-* [`👮‍♀️Livesey manifesto`](https://docs.google.com/document/d/1A9swigtaCZVM81dyjWpZhKwp8zlq9YoIqa4mvqefhSc/edit?usp=sharing)
+* [`👮‍♀️Livesey manifesto`](https://docs.google.com/document/d/1A9swigtaCZVM81dyjWpZhKwp8zlq9YoIqa4mvqefhSc/edit?usp=sharing) (will be soon)
