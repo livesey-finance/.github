@@ -15,7 +15,8 @@
 * [`🌱Livesey`](https://github.com/livesey-finance/livesey-main-module.git) - an application that helps investors, traders, and others interested in working with stocks and cryptocurrencies by analyzing ratios calculated based on the company's main financial characteristics
 * [`🧪livesey-finance-library`](https://github.com/livesey-finance/livsey-finance-library.git) - a library that provides formulas for accurate calculation of data for further analysis
 * [`🌶️livesey-data-parser`](https://github.com/livesey-finance/livesey-data-parser.git) - a module that allows you to collect data to create applications that should work with the financial API(temporary private)
-* [`🔧livesey-routing`](https://github.com/livesey-finance/livesey-routing.git) - this module is a lightweight HTTP router that facilitates handling requests and responses in a Node.js application
+* [`🔧livesey-routing`](https://github.com/livesey-finance/livesey-routing.git) - a lightweight HTTP router that facilitates handling requests and responses in a Node.js application
+* [`🛠️livesey-database`](https://github.com/livesey-finance/livesey-database.git) - a lightweight module that allows you to work with database queries without using ORM
 
 ### In order to contribute to our infrastructure solution, we encourage you to read our manifesto:
 * [`👮‍♀️Livesey manifesto`](https://docs.google.com/document/d/1A9swigtaCZVM81dyjWpZhKwp8zlq9YoIqa4mvqefhSc/edit?usp=sharing) (will be soon)
