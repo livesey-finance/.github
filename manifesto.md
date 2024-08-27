@@ -1,9 +1,9 @@
-## General terms and conditions:
+## 🤓 General terms and conditions:
 - The project (livesey-main-module) is non-commercial and provides for free distribution for non-commercial purposes.
 - The modules (livesey-finance-library, livesey-routing, livesey-database) are licensed under the MIT license, which allows their use in commercial and non-commercial projects.
 - Any contributions to the project must comply with the licensing terms and be provided under the same MIT license.
 
-## Technical requirements:
+## ⚒ Technical requirements:
 ### Language and Framework Requirements:
 - Writing a project (except for libraries or bindings) involves the use of JavaScript exclusively with limited use of TypeScript.
 - TypeScript is used only to specify schemes in `d.ts` files, which are written as a supplement to the usual schemes in `.js`.
@@ -21,7 +21,7 @@
 - Unit testing is required to test the system.
 - Test results should be reviewed as part of the code review process.
 
-## The procedure for making changes:
+## 👩‍💻 The procedure for making changes:
 ### Branching and Commits:
 - When adding changes, you need to create a branch separate from the selected one.
 - Use meaningful commit messages that clearly describe the purpose of the changes.
@@ -39,7 +39,7 @@
 
 > **P.S.:** When writing any changes to the system, you also need to write unit tests for it and put them in the `/tests` folder.
 
-## Code stylistics:
+## 🪄 Code stylistics:
 ### Linting and Formatting:
 - When writing code, you must use a single ESLint configuration. See more: [eslint](https://github.com/livesey-finance/livesey-how-to).
 - Consistent use of Prettier for code formatting is recommended.
@@ -49,7 +49,7 @@
 - Documentation should include an overview, installation instructions, API references, and examples.
 - Ensure that all public APIs are documented, including parameters, return values, and potential errors.
 
-## Version Control and Release Management:
+## 📆 Version Control and Release Management:
 ### Versioning:
 - Follow semantic versioning (SemVer) for releases: `MAJOR.MINOR.PATCH`.
 - Document changes in a `CHANGELOG.md` file for each release.
@@ -59,7 +59,7 @@
 - Tag releases in the version control system (e.g., Git) with the version number.
 - Ensure that the main branch is always in a deployable state.
 
-## Security and Compliance:
+## 👮‍♀️ Security and Compliance:
 ### Security Practices:
 - Regularly update dependencies to address security vulnerabilities.
 - Conduct security audits of the codebase periodically.
@@ -67,6 +67,6 @@
 ### Compliance:
 - Ensure compliance with relevant laws and regulations, particularly concerning data protection and privacy.
 
-## Contact:
+## 📞 Contact:
 - To get in touch with the development team, please email: huziukwork@gmail.com.  
 - For security-related issues, please use the subject line: `[SECURITY]` in your email.
