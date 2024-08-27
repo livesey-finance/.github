@@ -19,4 +19,4 @@
 * [`🛠️livesey-database`](https://github.com/livesey-finance/livesey-database.git) - a lightweight module that allows you to work with database queries without using ORM
 
 ### In order to contribute to our infrastructure solution, we encourage you to read our manifesto:
-* [`👮‍♀️Livesey manifesto`](https://docs.google.com/document/d/1A9swigtaCZVM81dyjWpZhKwp8zlq9YoIqa4mvqefhSc/edit?usp=sharing) (will be soon)
+* [`👮‍♀️Livesey manifesto`](https://github.com/livesey-finance/.github/blob/main/manifesto.md) (will be soon)
