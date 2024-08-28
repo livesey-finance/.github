@@ -41,11 +41,11 @@
 
 ## 🪄 Code stylistics:
 ### Linting and Formatting:
-- When writing code, you must use a single ESLint configuration. See more: [eslint](https://github.com/livesey-finance/livesey-how-to).
+- When writing code, you must use a single ESLint configuration. See more: [eslint](https://github.com/livesey-finance/livesey-how-to/blob/main/eslint.md).
 - Consistent use of Prettier for code formatting is recommended.
 
 ### Documentation:
-- For each module, release, etc., you need to write documentation in the `.md` format. See more: [documentation](https://github.com/livesey-finance/livesey-how-to).
+- For each module, release, etc., you need to write documentation in the `.md` format. See more: [documentation](https://github.com/livesey-finance/livesey-how-to/blob/main/documentation.md).
 - Documentation should include an overview, installation instructions, API references, and examples.
 - Ensure that all public APIs are documented, including parameters, return values, and potential errors.
 
