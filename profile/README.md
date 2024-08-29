@@ -21,5 +21,5 @@
 ### In order to contribute to our infrastructure solution, we encourage you to read our manifesto:
 * [`👮‍♀️Livesey manifesto`](https://github.com/livesey-finance/.github/blob/main/manifesto.md)
 
-### We also recommend you to read the articles below
-[👩‍🏫livesey-how-to](https://github.com/livesey-finance/livesey-how-to.git)
+### We also recommend you to read the articles below:
+* [`👩‍🏫livesey-how-to`](https://github.com/livesey-finance/livesey-how-to.git)
