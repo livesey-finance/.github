@@ -18,5 +18,8 @@
 * [`🔧livesey-routing`](https://github.com/livesey-finance/livesey-routing.git) - a lightweight HTTP router that facilitates handling requests and responses in a Node.js application
 * [`🛠️livesey-database`](https://github.com/livesey-finance/livesey-database.git) - a lightweight module that allows you to work with database queries without using ORM
 
-## In order to contribute to our infrastructure solution, we encourage you to read our manifesto:
+### In order to contribute to our infrastructure solution, we encourage you to read our manifesto:
 * [`👮‍♀️Livesey manifesto`](https://github.com/livesey-finance/.github/blob/main/manifesto.md)
+
+### We also recommend you to read the articles below
+[👩‍🏫livesey-how-to](https://github.com/livesey-finance/livesey-how-to.git)
