@@ -13,7 +13,7 @@
 ## Livesey is an open-source, non-profit, infrastructure solution. 
 ### The main parts of the Livesey infrastructure are:
 * [`🧪livesey-finance-library`](https://github.com/livesey-finance/livsey-finance-library.git) - a library that provides formulas for accurate calculation of data for further analysis
-* [`🌶️livesey-data-parser`](https://github.com/livesey-finance/livesey-data-parser.git) - a module that allows you to collect data to create applications that should work with the financial API
+* [`🌶️livesey-data-parser`](https://github.com/livesey-finance/livesey-data-parser.git) - a module that allows you to collect data to create applications
 * [`🔧livesey-routing`](https://github.com/livesey-finance/livesey-routing.git) - a lightweight HTTP router that facilitates handling requests and responses in a Node.js application
 * [`🛠️livesey-database`](https://github.com/livesey-finance/livesey-database.git) - a lightweight module that allows you to work with database queries without using ORM
 * [`🧙‍♂️livesey-validation`](https://github.com/livesey-finance/livesey-validation.git) - a lightweight and simple JavaScript module designed for data validation
